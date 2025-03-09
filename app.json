@@ -14,7 +14,7 @@
       
     },
     "MONGODB": {
-      "description": "Put your MongoDB Database URL here.",
+      "description": "mongodb://mongo:mNoEkwPDTguRAJHtwNdGpjRzzkYILrJu@metro.proxy.rlwy.net:19305",
       "required": true,
       "default": ""
     }
